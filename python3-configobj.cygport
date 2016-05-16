@@ -1,6 +1,6 @@
-inherit distutils
+inherit python3-distutils
 
-NAME="python-configobj"
+NAME="python3-configobj"
 ARCH=noarch
 VERSION=5.0.6
 RELEASE=1
